@@ -6,6 +6,7 @@ build/
 EBOOT.BIN
 PARAM.SFO
 *.map
+cursor_explore_repo_structure_and_packa.md
 
 # Editor files
 .vscode/
